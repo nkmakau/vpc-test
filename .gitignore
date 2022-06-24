@@ -31,3 +31,5 @@ override.tf.json
 # Other ingnote files
 .tf*
 .pre*
+.lark_cache_*
+.terraform.*
