@@ -4,7 +4,7 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
-
+*.hcl
 # Crash log files
 crash.log
 
@@ -32,4 +32,3 @@ override.tf.json
 .tf*
 .pre*
 .lark_cache_*
-.terraform.*
